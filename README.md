@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying [Digital Interaction and Computing Techniques](http://www.grauinteraccioicomputacio.udl.cat/) at Universitat de Lleida.
+- 🎓 &nbsp; Bachelor’s degree in [Digital Interaction and Computing Techniques](http://www.grauinteraccioicomputacio.udl.cat/) at Universitat de Lleida.
 - 💼 &nbsp; Working at [Trilogi - The eCommerce Agency](https://www.linkedin.com/company/trilogi/mycompany/) as eCommerce Developer.
 - 🌱 &nbsp; Learning more about Web and Cross-Platform Technologies.
 - ✍️ &nbsp; Trying to understand Human Behaviors (UX) as hobbie.
